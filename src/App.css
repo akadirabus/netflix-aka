@@ -1,0 +1,7 @@
+* {
+  /*browser default maring*/
+  margin: 0;
+}
+.app {
+  background-color: #111;
+}
